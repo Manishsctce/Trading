@@ -1,0 +1,69 @@
+Nifty / S&P CNS NIFTY
+======================
+> it is benchmark of share market index for Indian equity market i.e NSE
+> it is managed by India Index Services & product (IISL)
+> S&P - standard and poor - it is American Financial Service company that provide license to other company for trading marking
+> CNS - CRISIL NSE Index
+Trading
+==========
+Demat Account - dematerialized acct
+to maintain the account of shares, bonds, mutual funds for beneficiary/user/customer
+-  Beneficial Owner Identification number  (BO ID)
+
+Trading account is an interface between your Bank account and your Demat account used during buying and selling.
+
+Depository Participant(DP) are company which provide service to maintain the account of user for their shares
+ 
+In India there are two gov depositories 
+National Securities Depository Limited   (NSDL) 
+and Central Depository Services (India) Limited (CDSL) . 
+
+Type of trading
+===============
+Intraday trading - both buy and sell or viceversa on the same day before market close. It also called squaring off trading or day trading
+
+Delivery based trading - trade today will deliver to the beneficiary acct after 2-3days (i.e take 2-3 days to complete the process)
+
+
+Charges
+=======
+brokerage
+Service tax( at the rate of 12.36%)
+Securities Transaction Tax(STT)
+Stamp Duty
+Exchange Levy
+
+Let’s say you want to BUY 100  shares of  company ABC   at the rate of Rs 1000 per share with brokerage of 0.5% volume.
+
+Volume			Qty * Price					1,00,000
+Brokerage		.50% of Volume				(.05/100) * 100000= 500
+Service Tax		10% of Brokerage			Rs 50
+Education Cess	(2 % + 1 %) of Service Tax	 3 % of 50 = 1.5
+STT				.125% of Volume				125
+Stamp Duty		.01% on Volume				(.01/100 * 100000) = 10
+Exchange Levy	.0035% of Volume on NSE		(.00035/100 * 100000) =3.5
+Total cost									500+50+1.5+125+10+3.5=500+190=690
+
+
+
+ Investor can close his demat account with one DP and transfer all securities to another account with another DP
+
+####################################
+NSE - National Stock Exchange
+BSE - Bombay Stock Exchange
+ETF - Exchange traded funds
+POI - proof of identity
+POA - proof of address
+SEBI - Securities and Exchange Board of India
+Basic Services Demat Account (BSDA)
+=================================
+Scrips - paper money for temporary uses
+----------------
+For Software
+Order Type - Limit mean once the equity reach upto limit it will make the transaction
+
+Order Type - Market mean it make txn with market price currently
+SL - Sell Loss mean lower limit of selling
+
+Prod type CNC(Cash n Carry) mean equity
+"MIS" (Margin Intraday Square-off)
