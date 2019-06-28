@@ -1,5 +1,5 @@
-Nifty / S&P CNS NIFTY
-======================
+######### Nifty / S&P CNS NIFTY #########
+=========================================
 > it is benchmark of share market index for Indian equity market i.e NSE
 > it is managed by India Index Services & product (IISL)
 > S&P - standard and poor - it is American Financial Service company that provide license to other company for trading marking
@@ -47,6 +47,32 @@ Total cost									500+50+1.5+125+10+3.5=500+190=690
 
 
  Investor can close his demat account with one DP and transfer all securities to another account with another DP
+
+=========================================
+## PE Ratio (Price/Earning ratio) or Price to Earn ratio
+> PE = Price (MPS-Market Price Per Share ) / Earning (EPS-Earning Per Share)
+
+> PE is nothing but the price that an investors ready to pay to earn Re. 1 every year.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+#### PC Ratio (Put-Call Ratio)
+
+> Option is derivative of price
+> It is a logal contract/agreement which gives the buyer the right but not the obligation to buy/sell a specified amount of the underlying asset at a specified price on or before a specified date.
+
+
+> Call Option Buyer(pays premium) feels price will go up in future.
+- He gets right to buy at the Strike price.
+- premium amount is the token amount given to seller.
+
+> Call Option Seller (underwriter) get premium, feels price will go down
+
+> If price go down then Option buyer (Loss) and Option Seller(get premium)
+
+
+> Put - if you are bearish
+> Call - if you are bullish
+> put option is an option contract giving the owner the right, but not the obligation, to sell a specified amount of an underlying security at a specified price within a specified time frame.
+
 
 ####################################
 NSE - National Stock Exchange
